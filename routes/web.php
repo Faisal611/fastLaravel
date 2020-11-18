@@ -21,7 +21,7 @@ Route::get('/bitm', function(){
 });
 
 Route::get('/', function (){
-    return view('hme');
+    return view('home');
 
 });
 
